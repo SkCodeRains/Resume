@@ -1,0 +1,50 @@
+#A4Page {
+    width: 30cm;
+    height: 42.2cm;
+    border: 1px #D3D3D3 solid;
+    border-radius: 5px;
+    background: white;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+.Left-panel {
+    width: 70%;
+}
+
+.Right-panel {
+    width: 30%;
+}
+
+.contacts .r {
+    width: 18%;
+}
+
+a, a:hover, a:active, a:visited {
+    color: white;
+    text-decoration: none;
+}
+
+.icons {
+    width: 10%;
+}
+
+.elements {
+    width: 90%;
+}
+
+.elements {
+    width: 80%;
+}
+
+span {
+    font-size: 14px;
+}
+
+.headspane {
+    font-size: 14px;
+}
+
+.text-secondary h6 {
+    margin-right: 20px;
+    font-size: 12px !important;
+}
